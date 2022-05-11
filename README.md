@@ -2,6 +2,8 @@
 
 Script to download all images from a twinned vehicle (https://www.twinner.com/).
 
+![example image of 360 degree interior](example/interior_small.jpg)
+
 ## Why
 Twinner provides a option to download the images but there are a few caveats:
 1. Not all images from the web viewer are included
